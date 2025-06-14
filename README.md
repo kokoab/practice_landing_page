@@ -1,1 +1,1 @@
-# practice_landing_page
+Page built for The Odin Project using basic html css. 
